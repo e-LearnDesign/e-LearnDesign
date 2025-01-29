@@ -1,5 +1,5 @@
-e-Learn Design is a Moodle partner based in Scotland
-We also support the IOMAD project on Github (https://github.com/iomad/iomad)
+e-Learn Design is a Moodle partner based in Scotland<br>
+We also support the IOMAD project on Github (https://github.com/iomad/iomad)<br>
 Website - https://www.e-learndesign.co.uk
 
 <!---
